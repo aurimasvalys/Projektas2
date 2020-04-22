@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="styles/style.css">
 
 
-    <title>Projekto pavadinimas</title>
+    <title>Projektas2</title>
 </head>
 
 <body>

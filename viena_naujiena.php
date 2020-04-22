@@ -3,7 +3,7 @@
 
 
 
-<!-- Čia kontaktų puslapio vidinė dalis -->
+<!-- Čia puslapio, kur yra viena naujiena vidinė dalis -->
 
 
 

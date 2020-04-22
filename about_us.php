@@ -3,7 +3,7 @@
 
 
 
-<!-- Čia apie puslapio vidinė dalis -->
+<!-- Čia About Us puslapio vidinė dalis -->
 
 
 

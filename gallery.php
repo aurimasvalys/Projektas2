@@ -1,7 +1,7 @@
 
 <?php include "header.php" ?>
 
-
+<h2 class="center-align">cia yra galerija</h2>
 
 <!-- Čia galerijos puslapio vidinė dalis -->
 

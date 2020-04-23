@@ -34,7 +34,7 @@
     </div>
 
     <div class="col s4">
-      <img src="dizainai\sierra\img\portfolio\ms-portfolio\ms-p-7.jpg" alt="foto1" width="200">
+      <img src="dizainai\sierra\img\portfolio\ms-portfolio\ms-p-4.jpg" alt="foto1" width="200">
       <p>This is our picture number three</p>
       <a id="mainarea2button1" class="waves-effect waves-light btn  teal lighten-4 black-text"><i class="material-icons left">directions_walk</i>enter</a>
       <p id="p3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo corporis tempora ipsum quidem itaque? Optio, numquam esse unde quas accusamus molestiae aut consectetur eius ipsa! Quisquam mollitia atque magni autem?</p>

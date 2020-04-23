@@ -1,11 +1,19 @@
 <?php include "header.php" ?>
 <link rel="stylesheet" href="styles/style.css">
 
-<h4 class="center">About us</h4>
-<br>
+<nav class="teal lighten-4">
+  <div class="nav-wrapper">
+    <div class="col s12 ">
+      <a href="index.php" class="breadcrumb black-text">Index</a>
+      <a href="visosnaujienos.php" class="breadcrumb black-text">News</a>
+      <a href="aboutus.php" class="breadcrumb black-text">About us</a>
+    </div>
+  </div>
+</nav>
 
 <!-- About us puslapio tabai -->
 
+<h1>About us</h1>
 
 <ul class="tabs">
     <li class="tab col s3"><a class="active" href="#about_tab_1">Vision</a></li>

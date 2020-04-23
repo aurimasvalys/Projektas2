@@ -17,8 +17,7 @@
     <div class="konteineris">
 
 
-        <div class="tema1">
-            <img class="nuotraukos" src="https://picsum.photos/300" alt="">
+      
 
   <div class="tema1">
     <img class="nuotraukos" src="dizainai/seogo/img/blog/learn_about_bg.png " alt="">

@@ -2,25 +2,26 @@
 
 
 <nav class="teal lighten-4">
-  <div class="container nav-wrapper">
-    <div class="col s12 ">
-      <a href="index.php" class="breadcrumb black-text">Index</a>
-      <a href="aboutus.php" class="breadcrumb black-text">About us</a>
-    </div>
+    <div class="container nav-wrapper">
+        <div class="col s12 ">
+            <a href="index.php" class="breadcrumb black-text">Index</a>
+            <a href="aboutus.php" class="breadcrumb black-text">About us</a>
+        </div>
 </nav>
 
 <!-- About us puslapio tabai -->
 
 <div id="aboutusheader">
-<h1 id="aboutush1">About us</h1>
+    <h1 id="aboutush1">About us</h1>
 </div>
-
-<div id="aboutustabsai">
-<ul class="tabs amber lighten-4">
-    <li class="tab col s3"><a class="active" href="#about_tab_1">Vision</a></li>
-    <li class="tab col s3"><a href="#about_tab_2">Career</a></li>
-    <li class="tab col s3"><a href="#about_tab_3">Contacts</a></li>
-</ul>
+<div class="container">
+    <div id="aboutustabsai">
+        <ul class="tabs amber lighten-4">
+            <li class="tab col s3"><a class="active" href="#about_tab_1">Vision</a></li>
+            <li class="tab col s3"><a href="#about_tab_2">Career</a></li>
+            <li class="tab col s3"><a href="#about_tab_3">Contacts</a></li>
+        </ul>
+    </div>
 </div>
 
 <div id="about_tab_1" class="col s12 light-blue lighten-5">
@@ -103,11 +104,11 @@
                                                     <input id="icon_prefix" type="tel" class="validate">
                                                     <label for="icon_prefix">Phone</label>
                                                 </div>
-                                                    <div class="col s6" id="about_us_button">
-                                                        <button class="btn waves-effect waves-light" type="submit" name="action">Submit
-                                                            <i class="material-icons right">send</i>
-                                                        </button>
-                                                    </div>
+                                                <div class="col s6" id="about_us_button">
+                                                    <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+                                                        <i class="material-icons right">send</i>
+                                                    </button>
+                                                </div>
                                         </form>
                             </span></div>
                     </li>

@@ -4,11 +4,11 @@
 /* Aurimas Valys stiliaus kodas: */
 
 .virsus {
-background-image: url(../dizainai/sierra/img/banner/banner-bg.png);
-background-size: cover;
-width: 100%;
-height: 65px;
-position: relative;
+    background-image: url(../dizainai/sierra/img/banner/banner-bg.png);
+    background-size: cover;
+    width: 100%;
+    height: 65px;
+    position: relative;
 }
 
 .apacia {
@@ -18,14 +18,14 @@ position: relative;
     height: 200px;
     position: relative;
 }
+
 #apacialinks {
     margin: 0;
 }
+
 #linksh5 {
     margin-top: 0;
 }
-
-
 
 #mainarea1 {
     background-image: url(../dizainai/sierra/img/service-bg.jpg);
@@ -33,6 +33,8 @@ position: relative;
     height: 600px;
     position: relative;
 }
+
+
 /* #antrasfonas {
     background-image: url(../dizainai/sierra/img/3d-shap.png);
     background-repeat: no-repeat;
@@ -43,6 +45,7 @@ position: relative;
     left: 200px;
     
 } */
+
 #mainarea1text {
     font-family: Arial;
     position: absolute;
@@ -50,6 +53,7 @@ position: relative;
     top: 200px;
     left: 100px;
 }
+
 #mainarea1button1 {
     position: absolute;
     top: 300px;
@@ -62,18 +66,22 @@ position: relative;
     height: 600px;
     position: relative;
 }
+
 #mainarea2turinys {
     position: relative;
     top: 100px;
 }
+
 #p1 {
     padding-left: 50px;
     padding-right: 50px;
 }
+
 #p2 {
     padding-left: 50px;
     padding-right: 50px;
 }
+
 #p3 {
     padding-left: 50px;
     padding-right: 50px;
@@ -84,7 +92,13 @@ position: relative;
     top: 70px;
 }
 
+
 /* Tomas Pacesa stiliaus kodas: */
+
+.map {
+    width: 100%;
+    height: 100%;
+}
 
 .card {
     margin-top: 0!important;

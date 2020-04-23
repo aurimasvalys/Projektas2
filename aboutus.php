@@ -12,12 +12,8 @@
 </nav>
 
 <!-- About us puslapio tabai -->
-<div id="aboutusheader">
 
-<h1 id="aboutush1">About us</h1>
-
-</div>
-
+<h1>About us</h1>
 
 
 <ul class="tabs">

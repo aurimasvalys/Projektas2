@@ -2,20 +2,23 @@
 
 
 <nav class="teal lighten-4">
-  <div class="nav-wrapper">
-    <div class="col s12 ">
-      <a href="index.php" class="breadcrumb black-text">Index</a>
-      <a href="visosnaujienos.php" class="breadcrumb black-text">News</a>
+    <div class="container nav-wrapper">
+        <div class="col s12 ">
+            <a href="index.php" class="breadcrumb black-text">Index</a>
+            <a href="visosnaujienos.php" class="breadcrumb black-text">News</a>
+        </div>
     </div>
-  </div>
 </nav>
-<h2 class="center-align">cia yra visos naujienos</h2>
+
 
 <h2 id="fet">News</h2>
 
+<div id="naujienu fonas" >
+    <div class="konteineris">
 
-<div class="konteineris">
 
+        <div class="tema1">
+            <img class="nuotraukos" src="https://picsum.photos/300" alt="">
 
   <div class="tema1">
     <img class="nuotraukos" src="dizainai/seogo/img/blog/learn_about_bg.png " alt="">
@@ -33,7 +36,7 @@
         perspiciatis. Autem ea perspiciatis sunt?</p>
     </div>
     <div><input class="dvs" type="submit" name="submit" value="Open"></div>
-    <form action="vienanaujiena.php"></form>
+   
 
   </div>
 

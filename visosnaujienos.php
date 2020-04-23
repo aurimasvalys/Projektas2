@@ -3,7 +3,7 @@
 
 
 <nav class="teal lighten-4">
-  <div class="nav-wrapper">
+  <div class="container nav-wrapper">
     <div class="col s12 ">
       <a href="index.php" class="breadcrumb black-text">Index</a>
       <a href="visosnaujienos.php" class="breadcrumb black-text">News</a>

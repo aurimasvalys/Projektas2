@@ -17,7 +17,7 @@
 </div>
 
 <div id="aboutustabsai">
-<ul class="tabs">
+<ul class="tabs amber lighten-4">
     <li class="tab col s3"><a class="active" href="#about_tab_1">Vision</a></li>
     <li class="tab col s3"><a href="#about_tab_2">Career</a></li>
     <li class="tab col s3"><a href="#about_tab_3">Contacts</a></li>

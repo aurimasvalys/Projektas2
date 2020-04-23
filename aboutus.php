@@ -5,7 +5,6 @@
   <div class="container nav-wrapper">
     <div class="col s12 ">
       <a href="index.php" class="breadcrumb black-text">Index</a>
-      <a href="visosnaujienos.php" class="breadcrumb black-text">News</a>
       <a href="aboutus.php" class="breadcrumb black-text">About us</a>
     </div>
 </nav>
@@ -24,7 +23,7 @@
 </ul>
 </div>
 
-<div id="about_tab_1" class="col s12">
+<div id="about_tab_1" class="col s12 light-blue lighten-5">
     <div class="container">
         <div class="card teal lighten-4">
             <div class="card-content">
@@ -47,7 +46,7 @@
         </div>
     </div>
 </div>
-<div id="about_tab_2" class="col s12">
+<div id="about_tab_2" class="col s12 light-blue lighten-5">
     <div class="container">
         <div class="card cyan lighten-4">
             <div class="card-content">
@@ -117,7 +116,7 @@
         </div>
     </div>
 </div>
-<div id="about_tab_3" class="col s12">
+<div id="about_tab_3" class="col s12 light-blue lighten-5">
     <div class="container">
         <div class="card lime lighten-4">
             <div class="card-content">

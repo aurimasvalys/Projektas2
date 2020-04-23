@@ -12,8 +12,12 @@
 </nav>
 
 <!-- About us puslapio tabai -->
+<div id="aboutusheader">
 
-<h1>About us</h1>
+<h1 id="aboutush1">About us</h1>
+
+</div>
+
 
 <ul class="tabs">
     <li class="tab col s3"><a class="active" href="#about_tab_1">Vision</a></li>

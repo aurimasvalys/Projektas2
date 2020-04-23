@@ -24,8 +24,18 @@
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
                     <li><a href="index.php" class="black-text">Index</a></li>
                     <li><a href="visosnaujienos.php" class="black-text">News</a></li>
-                    <li><a href="aboutus.php" class="black-text">About us</a></li>
+                    <li><a  href="aboutus.php" class="black-text">About us</a></li>
+                    <li><a class='dropdown-trigger black-text' href='#' data-target='dropdown1'>Special</a></li>
+                    <ul id='dropdown1' class='dropdown-content'>
+                        <li><a href="#!">Special 1</a></li>
+                        <li><a href="#!">Special 2</a></li>
+                        
+                    </ul>
                 </ul>
+
+
+
+
             </div>
         </nav>
 

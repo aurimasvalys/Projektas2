@@ -6,6 +6,21 @@
 
 /* Aurimas Valys stiliaus kodas: */
 
+.virsus {
+background-image: url(../dizainai/sierra/img/banner/banner-bg.png);
+background-size: cover;
+width: 100%;
+height: 65px;
+position: relative;
+}
+
+.apacia {
+    background-image: url(../dizainai/sierra/img/footer-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
 
 
 

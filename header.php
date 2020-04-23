@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -17,4 +16,18 @@
 
 <body>
 
-    <!-- Čia pasikartojanti visuose puslapiuose viršutinė dalis -->
+    <div class="virsus">
+
+        <nav class="transparent">
+            <div class="nav-wrapper">
+                <a href="#" class="brand-logo"><img src="dizainai\sierra\img\logo.png" alt="virsuslogo"></a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="index.php">Index</a></li>
+                    <li><a href="visosnaujienos.php">News</a></li>
+                    <li><a href="aboutus.php">About us</a></li>
+                </ul>
+            </div>
+        </nav>
+
+
+    </div>

@@ -111,6 +111,15 @@
     height: 48px;
     position: relative;
 }
+#allnewsbut1 {
+    top: 120px;
+}
+#allnewsbut2 {
+    top: 120px;
+}
+#allnewsbut3 {
+    top: 120px;
+}
 
 
 /* Tomas Pacesa stiliaus kodas: */
@@ -156,7 +165,8 @@
 
 
 #fet{
-    color: blue;
+    
+    font-family: Arial;
     text-align: center; 
 }
 

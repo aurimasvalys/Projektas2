@@ -121,7 +121,7 @@
     <div class="container">
         <div class="card lime lighten-4">
             <div class="card-content">
-                <h3 class="center"> <i class="material-icons">contacts</i> Contacts</h3>
+                <h4 class="center"> <i class="material-icons">contacts</i> Contacts</h4>
                 <br><br>
                 <p class="center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio aperiam molestiae culpa a numquam iusto, mollitia ducimus voluptatem recusandae odio, in ut atque. Quisquam minima, alias sapiente consectetur error saepe!</p>
                 <br><br>

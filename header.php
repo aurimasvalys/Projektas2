@@ -16,7 +16,7 @@
 
 <body>
 
-    <div class="virsus">
+    <div class="virsus navbar-fixed">
 
         <nav class="teal lighten-4">
             <div class="container nav-wrapper">
@@ -25,10 +25,10 @@
                     <li><a href="index.php" class="black-text">Index</a></li>
                     <li><a href="visosnaujienos.php" class="black-text">News</a></li>
                     <li><a  href="aboutus.php" class="black-text">About us</a></li>
-                    <li><a class='dropdown-trigger black-text' href='#' data-target='dropdown1'>Special</a></li>
+                    <li><a class='dropdown-trigger black-text' href='#' data-target='dropdown1'>More</a></li>
                     <ul id='dropdown1' class='dropdown-content'>
-                        <li><a href="#!">Special 1</a></li>
-                        <li><a href="#!">Special 2</a></li>
+                        <li><a href="papildomas1.php">More 1</a></li>
+                        <li><a href="papildomas2.php">More 2</a></li>
                         
                     </ul>
                 </ul>

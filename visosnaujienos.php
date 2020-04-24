@@ -34,7 +34,7 @@
         accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
         perspiciatis. Autem ea perspiciatis sunt?</p>
     </div>
-    <div><a href="visosnaujienos.php" id="sportasmygtukas" class="waves-effect waves-light btn">Open</a></div>
+    <div><a href="vienanaujiena.php" id="sportasmygtukas" class="waves-effect waves-light btn">Open</a></div>
    
 
   </div>
@@ -57,7 +57,7 @@
 
 
     </div>
-    <div ><a href="visosnaujienos.php" id="politikamygtukas" class="waves-effect waves-light btn">Open</a></div>
+    <div ><a href="vienanaujiena.php" id="politikamygtukas" class="waves-effect waves-light btn">Open</a></div>
 
   </div>
 
@@ -78,7 +78,7 @@
         accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
         perspiciatis. Autem ea perspiciatis sunt?</p>
     </div>
-    <div><a href="visosnaujienos.php" id="laisvalaikismygtukas" class="waves-effect waves-light btn">Open</a></div>
+    <div><a href="vienanaujiena.php" id="laisvalaikismygtukas" class="waves-effect waves-light btn">Open</a></div>
   </div>
 
 </div>

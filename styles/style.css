@@ -1,37 +1,39 @@
-                                                                                                /* Bendras stilius: */
-                                                                                            /* Aurimas Valys stiliaus kodas: */
-                                                                                            
-                                                                                            .virsus {
-                                                                                                background-image: url(../dizainai/sierra/img/banner/banner-bg.png);
-                                                                                                background-size: cover;
-                                                                                                width: 100%;
-                                                                                                height: 65px;
-                                                                                                position: relative;
-                                                                                            }
-                                                                                            
-                                                                                            .apacia {
-                                                                                                background-image: url(../dizainai/sierra/img/footer-bg.jpg);
-                                                                                                background-size: cover;
-                                                                                                width: 100%;
-                                                                                                height: 200px;
-                                                                                                position: relative;
-                                                                                            }
-                                                                                            
-                                                                                            #apacialinks {
-                                                                                                margin: 0;
-                                                                                            }
-                                                                                            
-                                                                                            #linksh5 {
-                                                                                                margin-top: 0;
-                                                                                            }
-                                                                                            
-                                                                                            #mainarea1 {
-                                                                                                background-image: url(../dizainai/sierra/img/service-bg.jpg);
-                                                                                                background-size: cover;
-                                                                                                height: 600px;
-                                                                                                position: relative;
-                                                                                            }
-                                                                                            /* #antrasfonas {
+ /* Bendras stilius: */
+
+
+/* Aurimas Valys stiliaus kodas: */
+
+.virsus {
+    background-image: url(../dizainai/sierra/img/banner/banner-bg.png);
+    background-size: cover;
+    width: 100%;
+    height: 65px;
+    position: relative;
+}
+
+.apacia {
+    background-image: url(../dizainai/sierra/img/footer-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+
+#apacialinks {
+    margin: 0;
+}
+
+#linksh5 {
+    margin-top: 0;
+}
+
+#mainarea1 {
+    background-image: url(../dizainai/sierra/img/service-bg.jpg);
+    background-size: cover;
+    height: 600px;
+    position: relative;
+}
+ /* #antrasfonas {
     background-image: url(../dizainai/sierra/img/3d-shap.png);
     background-repeat: no-repeat;
     opacity: 0.5;
@@ -82,10 +84,29 @@
     top: 70px;
 }
 
+#aboutusheader {
+    background-color:beige;
+    width: 100%;
+    height: 150px;
+    position: relative;
+}
+#aboutush1 {
+    font-family: Arial;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
 /* Tomas Pacesa stiliaus kodas: */
 
 .card {
     margin-top: 0!important;
+}
+.map {
+    width: 100%;
+    height: 100%;
 }
 
 #about_tab_1 {
@@ -102,20 +123,7 @@
     height: 1000px;
     padding-top: 8px;
 }
-#aboutusheader {
-    background-color:beige;
-    width: 100%;
-    height: 150px;
-    position: relative;
-}
-#aboutush1 {
-    font-family: Arial;
-    margin: 0;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-}
+
 
 
 /* Zbignev Rakovskij stiliaus kodas: */
@@ -133,8 +141,9 @@
 
 
 #fet{
-    color: blue;
-    text-align: center; 
+   
+    text-align: center;
+    font-family: Arial; 
 }
 
 #let{

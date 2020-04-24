@@ -182,7 +182,8 @@
 
 .aukstis{
     padding-top: 10px;
-    height:200px;
+    
+    height: 300px;
     
 }
 
@@ -194,7 +195,7 @@
 }
 
 .fonas{
-    background-color: rgb(51, 54, 236);
+    background-color: rgb(111, 196, 218);
     border-top: 20px;
     padding:20px;
     

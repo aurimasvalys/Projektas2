@@ -70,7 +70,7 @@
 
       <div class=dalis1>
         <h3 id="let">Laisvalaikis</h3>
-        <p class="aprasymas">><b class="naujausios">Naujausios</b>>>>><a class="sps" href="">Keliajame į Egiptą...</a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
+        <p class="aprasymas">><b class="naujausios">Naujausios</b>>>>><a class="sps" href="">Keliaujame į Egiptą...</a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
           quia
           accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
           perspiciatis. Autem ea perspiciatis sunt?  </p>

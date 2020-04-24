@@ -57,7 +57,7 @@ function showDiv() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-    M.AutoInit();
+    // M.AutoInit();
 
     var options = {
         fullWidth: true,

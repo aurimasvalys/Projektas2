@@ -13,7 +13,7 @@
     <div id="section1knt" class="container">
         <div class="row">
             <div class="col s5">
-                <img id="section1img" class="materialboxed" src="images\modern_office_buildings_5k-470-400.jpg" >
+                <img id="section1img" class="materialboxed" src="images\modern_office_buildings_5k-470-400.jpg">
             </div>
             <div class="col s7 ">
                 <p id="section1lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto praesentium
@@ -53,13 +53,7 @@
 
 <div id="section2pp1">
 
-<div class="carousel">
-    <a class="carousel-item" href="#one!"><img src="images\bp3.jpeg"></a>
-    <a class="carousel-item" href="#two!"><img src="images\bp4.jpeg"></a>
-    <a class="carousel-item" href="#three!"><img src="images\bp5.jpg"></a>
-    <a class="carousel-item" href="#four!"><img src="images\bp6.jpg"></a>
-    <a class="carousel-item" href="#five!"><img src="images\bp2.jpeg"></a>
-  </div>
+    
 
 
 </div>

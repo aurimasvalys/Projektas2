@@ -34,38 +34,11 @@
 
 </div >
 
-<!-- <div class="down container row">
+  
 
-      <div class=" pirmasParagrafas row col s12 m6 l4 offset-l2">
-          
-        <img src="https://picsum.photos/100" alt="">
-             <h2 class="naujiena1">Antra naujiena</h2>
-               <a href=""> 
-                   
-               cia linkas i 
-           <ul><maps class="google.com"></maps></ul>
-       </a>
-
-      </div>
-
-      
-
-      <div class="antrasParagrafas col s12 m6 l4">
-        <img src="https://picsum.photos/100" alt="">
-        <h2 class="naujiena1">trecia naujiena</h2>
-        <a href="">cia kitas  linkas i 
-           <ul><maps class="google.com"></maps></ul>
-       </a>
-      </div>
-
-      
-    </div> -->
-
-    
-
-    <div class="row container">
-    <div class=" row col s6 m4">
-      <div class="card blue-grey darken-2">
+    <div class="apacia1 row container ">
+    <div class=" row ">
+      <div class="col s6  m4 offset-l2  card blue-grey darken-2">
         <div class="card-content white-text">
         <img src="https://picsum.photos/100" alt="">
           <span class="card-title">Antra naujiena</span>
@@ -77,7 +50,7 @@
         </div>
       </div>
 
-      <div class="card blue-grey darken-4">
+      <div class="col s6 m4 card blue-grey darken-4">
         <div class="card-content white-text">
         <img src="https://picsum.photos/100" alt="">
           <span class="card-title">Trecia naujiena</span>
@@ -89,18 +62,7 @@
         </div>
       </div>
 
-      <div class="card blue-grey darken-1">
-        <div class="card-content white-text">
-        <img src="https://picsum.photos/100" alt="">
-          <span class="card-title">Ketvirta naujiena</span>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minima perspiciatis molestiae in iste hic harum molestias placeat eveniet magnam repellat, eligendi id dolore. Eos dicta similique labore aliquid beatae?.</p>
-        </div>
-        <div class="card-action">
-          <a href="#">linkas</a>
-          <a href="#">web linkas </a>
-        </div>
-      </div>
-    </div>
+       </div>
   </div>
 
 

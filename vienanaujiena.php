@@ -1,21 +1,17 @@
 
 <?php include "header.php" ?>
 
+<nav class="teal lighten-4">
+    <div class="container nav-wrapper">
+        <div class="col s12 ">
+            <a href="index.php" class="breadcrumb black-text">Index</a>
+            <a href="vienanaujiena.php" class="breadcrumb black-text">News 1</a>
+        </div>
+    </div>
+</nav>
 
 
-<!-- Čia puslapio, kur yra viena naujiena vidinė dalis -->
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-</head >
-<h1 class="antraste container">Pagrindine naujiena</h1>
-
-<body>
+<h1 class="antraste container">Viena naujiena</h1>
 
 
 <div class="fonas row container">

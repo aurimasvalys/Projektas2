@@ -40,7 +40,7 @@
     <div class=" row ">
       <div class="col s8  m6  card blue-grey darken-2">
         <div class="card-content white-text">
-        <img src="https://picsum.photos/100" alt="">
+        <img src="https://picsum.photos/seed/1/100" alt="">
           <span class="card-title">Antra naujiena</span>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eveniet at nobis assumenda blanditiis ducimus, facilis placeat. Minima minus voluptatem, molestiae ea necessitatibus, veritatis sint velit aliquid in, dolor nemo!.</p>
         </div>
@@ -52,7 +52,7 @@
 
       <div class="col s8 m6 card blue-grey darken-4">
         <div class="card-content white-text">
-        <img src="https://picsum.photos/100" alt="">
+        <img src="https://picsum.photos/seed/2/100" alt="">
           <span class="card-title">Trecia naujiena</span>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minima perspiciatis molestiae in iste hic harum molestias placeat eveniet magnam repellat, eligendi id dolore. Eos dicta similique labore aliquid beatae?.</p>
         </div>

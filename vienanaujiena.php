@@ -38,7 +38,7 @@
         <div class="card-content white-text">
         <img src="https://picsum.photos/seed/1/100" alt="">
           <span class="card-title">Orai</span>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eveniet at nobis assumenda blanditiis ducimus, facilis placeat. Minima minus voluptatem, molestiae ea necessitatibus, veritatis sint velit aliquid in, dolor nemo!.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eveniet at nobis assumenda blanditiis ducimus, facilis placeat. Minima minus voluptatem, molestiae ea necessitatibus, veritatis sint velit aliquid.</p>
         </div>
         <div class="card-action">
           <a href="#">linkas</a>

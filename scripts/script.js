@@ -21,7 +21,12 @@ document.addEventListener('DOMContentLoaded', function() {
     var instances = M.Materialbox.init(elems);
 });
 
+// karuseles scriptas:
 
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.carousel');
+    var instances = M.Carousel.init(elems);
+  });
 
 
 /* Tomas Pacesa script kodas: */

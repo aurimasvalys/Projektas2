@@ -13,7 +13,7 @@
     <div id="section1knt" class="container">
         <div class="row">
             <div class="col s5">
-                <img id="section1img" class="materialboxed" src="images\modern_office_buildings_5k-470-400.jpg" width="470px" height="400px">
+                <img id="section1img" class="materialboxed" src="images\modern_office_buildings_5k-470-400.jpg" >
             </div>
             <div class="col s7 ">
                 <p id="section1lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto praesentium

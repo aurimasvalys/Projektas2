@@ -184,7 +184,20 @@
 
 /* Aurimas Surgelas stiliaus kodas: */
 
+#sportasmygtukas {
+    top: 160px;
+    position: relative;
+}
 
+#politikamygtukas {
+    top: 160px;
+    position: relative;
+}
+
+#laisvalaikismygtukas {
+    top: 160px;
+    position: relative;
+}
 #fet{
    
     text-align: center;

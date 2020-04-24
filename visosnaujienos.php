@@ -24,7 +24,7 @@
 
       <div class=dalis1>
         <h3 id="let">Sportas</h3>
-        <p class="aprasymas"> >>>>>  <a class="sps" href="">Lionel Messi palieka Barcelona ...</a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
+        <p class="aprasymas"> >>>>>  <a class="sps" href="https://www.lrt.lt/tema/fake-news">Lionel Messi palieka Barcelona ...</a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
           quia
           accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
           perspiciatis. Autem ea perspiciatis sunt? <a href="">Read more &rarr;</a> </p>

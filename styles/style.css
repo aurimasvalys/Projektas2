@@ -1,38 +1,36 @@
  /* Bendras stilius: */
-
-
-/* Aurimas Valys stiliaus kodas: */
-
-.virsus {
-    background-image: url(../dizainai/sierra/img/banner/banner-bg.png);
-    background-size: cover;
-    width: 100%;
-    height: 65px;
-    position: relative;
-}
-
-.apacia {
-    background-image: url(../dizainai/sierra/img/footer-bg.jpg);
-    background-size: cover;
-    width: 100%;
-    height: 200px;
-    position: relative;
-}
-
-#apacialinks {
-    margin: 0;
-}
-
-#linksh5 {
-    margin-top: 0;
-}
-
-#mainarea1 {
-    background-image: url(../dizainai/sierra/img/service-bg.jpg);
-    background-size: cover;
-    height: 600px;
-    position: relative;
-}
+ /* Aurimas Valys stiliaus kodas: */
+ 
+ .virsus {
+     background-image: url(../dizainai/sierra/img/banner/banner-bg.png);
+     background-size: cover;
+     width: 100%;
+     height: 65px;
+     position: relative;
+ }
+ 
+ .apacia {
+     background-image: url(../dizainai/sierra/img/footer-bg.jpg);
+     background-size: cover;
+     width: 100%;
+     height: 200px;
+     position: relative;
+ }
+ 
+ #apacialinks {
+     margin: 0;
+ }
+ 
+ #linksh5 {
+     margin-top: 0;
+ }
+ 
+ #mainarea1 {
+     background-image: url(../dizainai/sierra/img/service-bg.jpg);
+     background-size: cover;
+     height: 600px;
+     position: relative;
+ }
  /* #antrasfonas {
     background-image: url(../dizainai/sierra/img/3d-shap.png);
     background-repeat: no-repeat;
@@ -66,6 +64,15 @@
     position: relative;
     top: 100px;
 }
+#mn2p1 {
+    left: 170px;
+}
+#mn2p2 {
+    left: 169px;
+}
+#mn2p3 {
+    left: 168px;
+}
 #p1 {
     padding-left: 50px;
     padding-right: 50px;
@@ -98,7 +105,42 @@
     top: 50%;
     transform: translate(-50%, -50%);
 }
+#section1pp1 {
+    background-color: rgb(227, 250, 250);
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+#section1knt {
+    position: absolute;
+    top: 50px;
+    left: 250px;
+}
+#section1lorem {
+    position: absolute;
+    width: 600px;
+    text-align: justify;
+    margin-top: 0;
+}
+#section1btn {
+    position: absolute;
+    bottom: 25px;
+    right: 78px;
+}
 
+#section2pp1 {
+    background-color: rgb(197, 211, 211);
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#section3pp1 {
+    background-color: rgb(227, 250, 250);
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
 /* Tomas Pacesa stiliaus kodas: */
 
 .card {
@@ -110,16 +152,21 @@
 }
 
 #about_tab_1 {
+    background-image: url(../images/3d_aluminium_surface_4k-1920x1080.jpg);
+    width: 100%;
     height: 1000px;
     padding-top: 8px;
 }
 
 #about_tab_2 {
+    background-image: url(../images/3d_maze-1920x1080.jpg);
+    width: 100%;
     height: 1000px;
     padding-top: 8px;
 }
 
 #about_tab_3 {
+    background-image: url(../images/material_design_htc_u11_plus_stock-1920x1080.jpg);
     height: 1000px;
     padding-top: 8px;
 }
@@ -139,7 +186,20 @@
 
 /* Aurimas Surgelas stiliaus kodas: */
 
+#sportasmygtukas {
+    top: 160px;
+    position: relative;
+}
 
+#politikamygtukas {
+    top: 160px;
+    position: relative;
+}
+
+#laisvalaikismygtukas {
+    top: 160px;
+    position: relative;
+}
 #fet{
    
     text-align: center;

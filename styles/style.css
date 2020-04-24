@@ -154,16 +154,21 @@
 }
 
 #about_tab_1 {
+    background-image: url(../images/3d_aluminium_surface_4k-1920x1080.jpg);
+    width: 100%;
     height: 1000px;
     padding-top: 8px;
 }
 
 #about_tab_2 {
+    background-image: url(../images/3d_maze-1920x1080.jpg);
+    width: 100%;
     height: 1000px;
     padding-top: 8px;
 }
 
 #about_tab_3 {
+    background-image: url(../images/material_design_htc_u11_plus_stock-1920x1080.jpg);
     height: 1000px;
     padding-top: 8px;
 }

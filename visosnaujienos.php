@@ -27,12 +27,12 @@
       <p class="aprasymas">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
         quia
         accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
-        perspiciatis. Autem ea perspiciatis sunt?</p>
+        perspiciatis. Autem ea perspiciatis sunt? <a href="">Read more &rarr;</a></p>
       <br>
       <p class="aprasymas">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
         quia
         accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
-        perspiciatis. Autem ea perspiciatis sunt?</p>
+        perspiciatis. Autem ea perspiciatis sunt? <a href="">Read more &rarr;</a></p>
     </div>
     <div><a href="vienanaujiena.php" id="sportasmygtukas" class="waves-effect waves-light btn">Open</a></div>
    
@@ -48,12 +48,12 @@
       <p class="aprasymas">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
         quia
         accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
-        perspiciatis. Autem ea perspiciatis sunt?</p>
+        perspiciatis. Autem ea perspiciatis sunt? <a href="">Read more &rarr;</a></p>
       <br>
       <p class="aprasymas">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
         quia
         accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
-        perspiciatis. Autem ea perspiciatis sunt?</p>
+        perspiciatis. Autem ea perspiciatis sunt? <a href="">Read more &rarr;</a></p>
 
 
     </div>
@@ -71,12 +71,12 @@
       <p class="aprasymas">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
         quia
         accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
-        perspiciatis. Autem ea perspiciatis sunt?</p>
+        perspiciatis. Autem ea perspiciatis sunt?<a href="">Read more &rarr;</a></p>
       <br>
       <p class="aprasymas">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, nostrum cumque
         quia
         accusantium ab, libero animi iure tempora exercitationem sint modi incidunt maiores similique, dicta
-        perspiciatis. Autem ea perspiciatis sunt?</p>
+        perspiciatis. Autem ea perspiciatis sunt?<a href="">Read more &rarr;</a></p>
     </div>
     <div><a href="vienanaujiena.php" id="laisvalaikismygtukas" class="waves-effect waves-light btn">Open</a></div>
   </div>

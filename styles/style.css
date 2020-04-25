@@ -26,11 +26,15 @@
  }
  
  #mainarea1 {
-     background-image: url(../dizainai/sierra/img/service-bg.jpg);
-     background-size: cover;
+     /* background-image: url(../dizainai/sierra/img/service-bg.jpg);
+     background-size: cover; */
      height: 600px;
      position: relative;
  }
+
+ /* SLIDER SEKCIJA */
+
+
 
 #mainarea1text {
     font-family: Arial;

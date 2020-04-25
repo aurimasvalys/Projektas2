@@ -21,11 +21,11 @@ document.addEventListener('DOMContentLoaded', function() {
     var instances = M.Materialbox.init(elems);
 });
 
-// slider papildomas1.php puslapyje:
+// slider index.php puslapyje:
 
 document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.slider');
-    var instances = M.Slider.init(elems, {indicators: false});
+    var instances = M.Slider.init(elems);
   });
 
 

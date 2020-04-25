@@ -4,15 +4,21 @@
 <nav class="teal lighten-4">
     <div class="container nav-wrapper">
         <div class="col s12 ">
-            <a href="index.php" class="breadcrumb black-text">Index</a>
+            <div class="w3-animate-bottom">
+                            <a href="index.php" class="breadcrumb black-text">Index</a>
             <a href="aboutus.php" class="breadcrumb black-text">About us</a>
+            </div>
+
         </div>
 </nav>
 
 <!-- About us puslapio tabai -->
 
 <div id="aboutusheader">
-    <h1 id="aboutush1">About us</h1>
+    <div class="w3-animate-top">
+        <h1 id="aboutush1">About us</h1>
+    </div>
+    
 </div>
 
 <div id="aboutusmacro">

@@ -35,6 +35,7 @@
 
 #mainarea1text {
     font-family: Arial;
+    font-size: 80px;
     position: absolute;
     margin: 0;
     top: 200px;
@@ -43,7 +44,7 @@
 #mainarea1button1 {
     position: absolute;
     top: 300px;
-    left: 320px;
+    left: 400px;
 }
 
 #mainarea2 {
@@ -96,11 +97,12 @@
 }
 #aboutush1 {
     font-family: Arial;
+    font-size: 60px;
     margin: 0;
     position: absolute;
+    top: 50px;
     left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%);
 }
 #section1pp1 {
     background-image: linear-gradient(to right,#b2dfdb, white, #b2dfdb);

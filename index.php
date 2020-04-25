@@ -17,7 +17,7 @@
     <h1 id="mainarea1text">Main Title of the Page</h1>
   </div>
   <div class="w3-container w3-center w3-animate-bottom">
-    <a href="visosnaujienos.php" id="mainarea1button1" class="waves-effect waves-light btn tooltipped teal lighten-4 black-text">
+    <a href="visosnaujienos.php" id="mainarea1button1" class="waves-effect waves-light btn tooltipped teal lighten-4 black-text" data-position="bottom" data-tooltip="Yes, find out more!">
       <i class="material-icons left">power</i>find out more</a>
 
   </div>

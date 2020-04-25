@@ -4,7 +4,7 @@
 <nav class="teal lighten-4">
     <div class="container nav-wrapper">
         <div class="col s12 ">
-            <div class="w3-animate-bottom">
+            <div class="w3-animate-left">
                 <a href="index.php" class="breadcrumb black-text">Index</a>
                 <a href="aboutus.php" class="breadcrumb black-text">About us</a>
             </div>

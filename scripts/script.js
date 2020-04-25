@@ -21,7 +21,12 @@ document.addEventListener('DOMContentLoaded', function() {
     var instances = M.Materialbox.init(elems);
 });
 
-// karuseles scriptas:
+// collapsible papildomas1.php puslapyje:
+
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.collapsible');
+    var instances = M.Collapsible.init(elems);
+  });
 
 
 /* Tomas Pacesa script kodas: */

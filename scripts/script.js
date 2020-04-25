@@ -23,10 +23,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // slider index.php puslapyje:
 
-document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.slider');
-    var instances = M.Slider.init(elems, {indicators:false} );
-  });
 
 
 /* Tomas Pacesa script kodas: */

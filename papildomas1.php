@@ -37,7 +37,7 @@
                     consequuntur aspernatur, explicabo esse atque veniam nobis? Voluptatibus illum ipsa soluta neque!</p>
                 </div>
                 
-                <div class="w3-animate-bottom">
+                <div class="w3-animate-right">
                     <a id="section1btn" class="waves-effect waves-light btn modal-trigger" href="#modal1">Consent</a>
                 </div>
                 

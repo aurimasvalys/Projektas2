@@ -12,7 +12,7 @@
 <div id="mainarea1">
 
   <a href="visosnaujienos.php" id="mainarea1button1" class="waves-effect waves-light btn tooltipped teal lighten-4 black-text"><i class="material-icons left">power</i>find out more</a>
-  <!-- <div id="antrasfonas"></div> -->
+ 
   <h1 id="mainarea1text">Main Title of the Page</h1>
 </div>
 

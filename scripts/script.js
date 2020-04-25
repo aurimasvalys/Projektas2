@@ -21,11 +21,11 @@ document.addEventListener('DOMContentLoaded', function() {
     var instances = M.Materialbox.init(elems);
 });
 
-// collapsible papildomas1.php puslapyje:
+// slider papildomas1.php puslapyje:
 
 document.addEventListener('DOMContentLoaded', function() {
-    var elems = document.querySelectorAll('.collapsible');
-    var instances = M.Collapsible.init(elems);
+    var elems = document.querySelectorAll('.slider');
+    var instances = M.Slider.init(elems, {indicators: false});
   });
 
 

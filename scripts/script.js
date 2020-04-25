@@ -24,7 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
 // karuseles scriptas:
 
 
-
 /* Tomas Pacesa script kodas: */
 
 

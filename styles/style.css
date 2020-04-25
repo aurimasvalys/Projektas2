@@ -111,7 +111,7 @@
     transform: translate(-50%, -50%);
 }
 #section1pp1 {
-    background-color: rgb(227, 250, 250);
+    background-image: linear-gradient(to right,#b2dfdb, white, #b2dfdb);
     width: 100%;
     height: 500px;
     position: relative;
@@ -150,6 +150,13 @@
     height: 500px;
     position: relative;
 }
+
+
+
+
+
+
+
 /* Tomas Pacesa stiliaus kodas: */
 
 .card {

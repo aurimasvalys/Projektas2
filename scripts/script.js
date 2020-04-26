@@ -21,6 +21,11 @@ document.addEventListener('DOMContentLoaded', function() {
     var instances = M.Materialbox.init(elems);
 });
 
+// button tooltip:
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.tooltipped');
+    var instances = M.Tooltip.init(elems);
+  });
 
 
 
@@ -62,7 +67,7 @@ function showDiv() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-    M.AutoInit();
+    // M.AutoInit();
 
     var options = {
         fullWidth: true,

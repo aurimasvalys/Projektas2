@@ -8,6 +8,7 @@
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="styles/style.css">
 
 
@@ -20,18 +21,24 @@
 
         <nav class="teal lighten-4">
             <div class="container nav-wrapper">
-                <a href="#" class="brand-logo"><img src="dizainai\sierra\img\logo.png" alt="virsuslogo"></a>
-                <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><a href="index.php" class="black-text">Index</a></li>
-                    <li><a href="visosnaujienos.php" class="black-text">News</a></li>
-                    <li><a  href="aboutus.php" class="black-text">About us</a></li>
-                    <li><a class='dropdown-trigger black-text' href='#' data-target='dropdown1'>More</a></li>
-                    <ul id='dropdown1' class='dropdown-content'>
-                        <li><a href="papildomas1.php">More 1</a></li>
-                        <li><a href="papildomas2.php">More 2</a></li>
-                        
+                <div class="w3-animate-left">
+                    <a href="#" class="brand-logo"><img src="dizainai\sierra\img\logo.png" alt="virsuslogo"></a>
+                </div>
+
+                <div class="w3-animate-right">
+                    <ul id="nav-mobile" class="right hide-on-med-and-down">
+                        <li><a href="index.php" class="black-text">Index</a></li>
+                        <li><a href="visosnaujienos.php" class="black-text">News</a></li>
+                        <li><a href="aboutus.php" class="black-text">About us</a></li>
+                        <li><a class='dropdown-trigger black-text' href='#' data-target='dropdown1'>More</a></li>
+                        <ul id='dropdown1' class='dropdown-content'>
+                            <li><a href="papildomas1.php">More 1</a></li>
+                            <li><a href="papildomas2.php">More 2</a></li>
+
+                        </ul>
                     </ul>
-                </ul>
+                </div>
+
 
 
 

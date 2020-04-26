@@ -221,6 +221,8 @@
 
 
 
+
+
  /* Tomas Pacesa stiliaus kodas: */
  
  .card {
@@ -251,15 +253,46 @@
      height: 1000px;
      padding-top: 8px;
  }
+ #quizheader {
+    position: relative;
+    background-color: beige;
+    width: 100%;
+    height: 150px;
+ }
+#vcsquiz {
+     margin: 0;
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translate(-50%, -50%);
+ }
+
+#tarpastarpas {
+    position: relative;
+    background-color: rgb(192, 240, 240);
+    width: 100%;
+    height: 100px;
+}
+#startquiz {
+    top: 30px;
+}
+#klausimynofonas {
+    background-color: beige;
+    position: relative;
+    width: 100%;
+    height: 1203px;
+}
+
+
  
- .ml3 {
+ /* .ml3 {
      background-color: blanchedalmond;
      background-size: cover;
      margin-top: 100px;
      /* color: black;
      font-weight: 900;
      font-size: 3.5em; */
- }
+ } */
  /* Zbignev Rakovskij stiliaus kodas: */
  
  .aukstis {

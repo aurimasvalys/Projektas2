@@ -161,13 +161,6 @@
      position: relative;
 }
  
- #section3pp1 {
-     background-color: rgb(227, 250, 250);
-     width: 100%;
-     height: 500px;
-     position: relative;
-}
-
 #section2container {
     position: relative;
     top: 20px;
@@ -193,10 +186,38 @@
 #section2buttonright {
     right: 200px;
 }
+#section2slide1text {
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+}
+#section2slide2text {
+    position: absolute;
+    bottom: 0px;
+    left: 10px;
+}
+#section2slide3text {
+    position: absolute;
+    bottom: 0px;
+    left: 10px;
+}
+#section2slide4text {
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+}
+#section2slide5text {
+    position: absolute;
+    bottom: 0px;
+    left: 10px;
+}
 
-
-
-
+/* #section3pp1 {
+    background-color: rgb(227, 250, 250);
+    width: 100%;
+    height: 500px;
+    position: relative;
+} */
 
 
 

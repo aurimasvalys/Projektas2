@@ -35,6 +35,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 // Tabs inicializacija 
+
+var tabs = document.querySelectorAll('.tabs')
+for (var i = 0; i < tabs.length; i++) {
+    M.Tabs.init(tabs[i]);
+};
+
+// Tabs swipe scriptas 
+
+M.Tabs.init(document.querySelectorAll('.tabs'), { swipeable: true });
+
 var textWrapper = document.querySelector('.ml3');
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 // Quiz efektas
@@ -57,16 +67,9 @@ anime.timeline({ loop: true })
 var scrollspies = document.querySelectorAll('.scrollspy')
 for (var i = 0; i < scrollspies.length; i++) {
     M.ScrollSpy.init(scrollspies[i]);
-}
+};
 
-var tabs = document.querySelectorAll('.tabs')
-for (var i = 0; i < tabs.length; i++) {
-    M.Tabs.init(tabs[i]);
-}
 
-// Tabs swipe scriptas 
-
-M.Tabs.init(document.querySelectorAll('.tabs'), { swipeable: true });
 
 // Colapsinimo scriptas 
 

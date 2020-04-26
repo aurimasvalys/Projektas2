@@ -4,11 +4,11 @@
 <h1 class="ml3 center">VCS Quiz</h1>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-    <br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <div class="container">
-    
+
     <div class="center">
-    <a href="#!" id="startquiz" class="btn waves-effect waves-teal scale-transition">Start Quiz</a>
+        <a href="#!" id="startquiz" class="btn waves-effect waves-teal scale-transition">Start Quiz</a>
     </div>
     <a href="#!" id="question1" class="btn waves-effect waves-teal scale-transition scale-out">Question 1</a>
     <div class="card cyan lighten-4 scale-transition scale-out" id="cardas1">
@@ -16,14 +16,15 @@
             <ul>
                 <li>
                     <form id="q1" action="#">
-
+                    What is a <b>div</b>?
+                        
                         <p>
-                            this is a question <br><br>
+
                             <label>
 
-                                <input name="yourchoice" type="radio" checked />
+                                <input name="yourchoice" type="radio" />
 
-                                <span>Yes</span>
+                                <span>HTML divider</span>
 
                             </label>
 
@@ -35,7 +36,7 @@
 
                                 <input name="yourchoice" type="radio" />
 
-                                <span>No</span>
+                                <span>Stack memory usage number</span>
 
                             </label>
 
@@ -47,7 +48,7 @@
 
                                 <input name="yourchoice" type="radio" />
 
-                                <span>I Don't Know</span>
+                                <span>vid Backwards</span>
 
                             </label>
 
@@ -64,14 +65,14 @@
             <ul>
                 <li>
                     <form id="q2" action="#">
-
+                        What is the name of <b>Alice</b> ? <br><br>
                         <p>
 
                             <label>
 
-                                <input name="yourchoice" type="radio" checked />
+                                <input name="yourchoice" type="radio" />
 
-                                <span>Yes</span>
+                                <span>Jennie</span>
 
                             </label>
 
@@ -83,7 +84,7 @@
 
                                 <input name="yourchoice" type="radio" />
 
-                                <span>No</span>
+                                <span>Vanessa</span>
 
                             </label>
 
@@ -95,7 +96,7 @@
 
                                 <input name="yourchoice" type="radio" />
 
-                                <span>I Don't Know</span>
+                                <span>Alice</span>
 
                             </label>
 
@@ -112,14 +113,14 @@
             <ul>
                 <li>
                     <form id="q3" action="#">
-
+                        What is <b>life</b> ? <br><br>
                         <p>
 
                             <label>
 
-                                <input name="yourchoice" type="radio" checked />
+                                <input name="yourchoice" type="radio" />
 
-                                <span>Yes</span>
+                                <span>Life is life</span>
 
                             </label>
 
@@ -131,7 +132,7 @@
 
                                 <input name="yourchoice" type="radio" />
 
-                                <span>No</span>
+                                <span>String a = "life";</span>
 
                             </label>
 
@@ -143,7 +144,7 @@
 
                                 <input name="yourchoice" type="radio" />
 
-                                <span>I Don't Know</span>
+                                <span>life in <b>Bold</b> text</span>
 
                             </label>
 
@@ -160,14 +161,15 @@
             <ul>
                 <li>
                     <form id="q4" action="#">
-
+                    What's your <b>favourite</b> ? <br><br>
+                        
                         <p>
 
                             <label>
 
-                                <input name="yourchoice" type="radio" checked />
+                                <input name="yourchoice" type="radio" />
 
-                                <span>Yes</span>
+                                <span>Dog</span>
 
                             </label>
 
@@ -179,7 +181,7 @@
 
                                 <input name="yourchoice" type="radio" />
 
-                                <span>No</span>
+                                <span>Ice Cream</span>
 
                             </label>
 
@@ -191,7 +193,7 @@
 
                                 <input name="yourchoice" type="radio" />
 
-                                <span>I Don't Know</span>
+                                <span>Football</span>
 
                             </label>
 
@@ -208,12 +210,13 @@
             <ul>
                 <li>
                     <form id="q5" action="#">
-
+                    <b>Yes</b> ? <br><br>
+                        
                         <p>
 
                             <label>
 
-                                <input name="yourchoice" type="radio" checked />
+                                <input name="yourchoice" type="radio" />
 
                                 <span>Yes</span>
 
@@ -239,7 +242,7 @@
 
                                 <input name="yourchoice" type="radio" />
 
-                                <span>I Don't Know</span>
+                                <span>I Don't know</span>
 
                             </label>
 

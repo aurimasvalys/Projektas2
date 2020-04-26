@@ -33,7 +33,7 @@
                         <li><a class='dropdown-trigger black-text' href='#' data-target='dropdown1'>More</a></li>
                         <ul id='dropdown1' class='dropdown-content'>
                             <li><a href="papildomas1.php">More 1</a></li>
-                            <li><a href="papildomas2.php">More 2</a></li>
+                            <li><a href="penktaspuslapis.php">More 2</a></li>
 
                         </ul>
                     </ul>

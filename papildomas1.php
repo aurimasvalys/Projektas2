@@ -17,30 +17,30 @@
         <div class="row">
             <div class="col s5">
                 <div class="w3-animate-left">
-                     <img id="section1img" class="materialboxed" src="images\modern_office_buildings_5k-470-400.jpg">
+                    <img id="section1img" class="materialboxed" src="images\modern_office_buildings_5k-470-400.jpg">
                 </div>
-               
+
             </div>
             <div class="col s7 ">
                 <div class="w3-animate-right">
 
-                <p id="section1lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto praesentium
-                    tempora minus eaque assumenda incidunt voluptatum reiciendis voluptatibus odit!
-                    Numquam, quae? Exercitationem perferendis, nam vel doloribus dignissimos
-                    necessitatibus nostrum delectus? Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Eum assumenda quisquam, suscipit, minima alias ratione eligendi provident corporis
-                    consequuntur aspernatur, explicabo esse atque veniam nobis? Voluptatibus illum ipsa soluta neque!Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto praesentium
-                    tempora minus eaque assumenda incidunt voluptatum reiciendis voluptatibus odit!
-                    Numquam, quae? Exercitationem perferendis, nam vel doloribus dignissimos
-                    necessitatibus nostrum delectus? Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                    Eum assumenda quisquam, suscipit, minima alias ratione eligendi provident corporis
-                    consequuntur aspernatur, explicabo esse atque veniam nobis? Voluptatibus illum ipsa soluta neque!</p>
+                    <p id="section1lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto praesentium
+                        tempora minus eaque assumenda incidunt voluptatum reiciendis voluptatibus odit!
+                        Numquam, quae? Exercitationem perferendis, nam vel doloribus dignissimos
+                        necessitatibus nostrum delectus? Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                        Eum assumenda quisquam, suscipit, minima alias ratione eligendi provident corporis
+                        consequuntur aspernatur, explicabo esse atque veniam nobis? Voluptatibus illum ipsa soluta neque!Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto praesentium
+                        tempora minus eaque assumenda incidunt voluptatum reiciendis voluptatibus odit!
+                        Numquam, quae? Exercitationem perferendis, nam vel doloribus dignissimos
+                        necessitatibus nostrum delectus? Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                        Eum assumenda quisquam, suscipit, minima alias ratione eligendi provident corporis
+                        consequuntur aspernatur, explicabo esse atque veniam nobis? Voluptatibus illum ipsa soluta neque!</p>
                 </div>
-                
+
                 <div class="w3-animate-right">
                     <a id="section1btn" class="waves-effect waves-light btn modal-trigger" href="#modal1">Consent</a>
                 </div>
-                
+
                 <div id="modal1" class="modal">
                     <div class="modal-content">
                         <h4>Modal Header</h4>
@@ -64,6 +64,23 @@
 </div>
 
 <div id="section2pp1">
+
+    <div id="section2container" class="container">
+        <div class="row">
+            <img id="section2img1" class="mySlides" src="images\bridges\shivaji_park_bridge_mumbai-1920x1080.jpg" alt="">
+            <img id="section2img2" class="mySlides" src="images\bridges\vasco_da_gama_bridge_sunset_portugal_4k_5k-1920x1080.jpg" alt="">
+            <img id="section2img3" class="mySlides" src="images\bridges\yokohama_bay_bridge_japan-1920x1080.jpg" alt="">
+            <img id="section2img4" class="mySlides" src="images\bridges\forth_bridge_scotland_4k_8k-1920x1080.jpg" alt="">
+            <img id="section2img5" class="mySlides" src="images\bridges\golden_gate_bridge_at_night_4k_8k-1920x1080.jpg" alt="">
+        </div>
+    </div>
+
+
+
+    <button id="section2buttonleft" class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+    <button id="section2buttonright" class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+
+
 
 
 

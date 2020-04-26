@@ -2,91 +2,228 @@
 
 <div class="container">
     <h1 class="center">VCS QUIZ</h1>
-    <div class="card teal lighten-4">
-        <div class="card-content">
-            <h3 class="center"> <i class="material-icons">vpn_key</i> Question 1.</h3>
-            <br><br>
-            <p class="center">question</p>
-            <br><br>
-            <form action="#" class="col s3">
-                <p>
-                    <label>
-                        <input name="yourchoice" type="radio" checked />
-                        <span>Yes</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="yourchoice" type="radio" />
-                        <span>No</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="yourchoice" type="radio" />
-                        <span>I Don't Know</span>
-                    </label>
-                </p>
-            </form>
-        </div>
+    <div class="center">
+        <button>Click Me</button>
     </div>
-    <div class="card teal lighten-4">
-        <div class="card-content">
-            <h3 class="center"> <i class="material-icons">vpn_key</i> Question 1.</h3>
-            <br><br>
-            <p class="center">question</p>
-            <br><br>
-            <form action="#" class="col s3">
-                <p>
-                    <label>
-                        <input name="yourchoice" type="radio" checked />
-                        <span>Yes</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="yourchoice" type="radio" />
-                        <span>No</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="yourchoice" type="radio" />
-                        <span>I Don't Know</span>
-                    </label>
-                </p>
-            </form>
-        </div>
-    </div>
-    <div class="card teal lighten-4">
-        <div class="card-content">
-            <h3 class="center"> <i class="material-icons">vpn_key</i> Question 1.</h3>
-            <br><br>
-            <p class="center">question</p>
-            <br><br>
-            <form action="#" class="col s3">
-                <p>
-                    <label>
-                        <input name="yourchoice" type="radio" checked />
-                        <span>Yes</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="yourchoice" type="radio" />
-                        <span>No</span>
-                    </label>
-                </p>
-                <p>
-                    <label>
-                        <input name="yourchoice" type="radio" />
-                        <span>I Don't Know</span>
-                    </label>
-                </p>
-            </form>
-        </div>
-    </div>
-</div>
+    <ul class="collapsible">
+        <li>
+            <div class="collapsible-header">First</div>
+            <div class="collapsible-body">
+                <form id="q1" action="#">
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" checked />
+
+                            <span>Yes</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>No</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>I Don't Know</span>
+
+                        </label>
+
+                    </p>
+
+                </form>
+            </div>
+        </li>
+        <li>
+            <div class="collapsible-header">First</div>
+            <div class="collapsible-body">
+                <form id="q2" action="#">
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" checked />
+
+                            <span>Yes</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>No</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>I Don't Know</span>
+
+                        </label>
+
+                    </p>
+
+                </form>
+            </div>
+        </li><li>
+            <div class="collapsible-header">First</div>
+            <div class="collapsible-body">
+                <form id="q3" action="#">
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" checked />
+
+                            <span>Yes</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>No</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>I Don't Know</span>
+
+                        </label>
+
+                    </p>
+
+                </form>
+            </div>
+        </li><li>
+            <div class="collapsible-header">First</div>
+            <div class="collapsible-body">
+                <form id="q4" action="#">
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" checked />
+
+                            <span>Yes</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>No</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>I Don't Know</span>
+
+                        </label>
+
+                    </p>
+
+                </form>
+            </div>
+        </li><li>
+            <div class="collapsible-header">First</div>
+            <div class="collapsible-body">
+                <form id="q5" action="#">
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" checked />
+
+                            <span>Yes</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>No</span>
+
+                        </label>
+
+                    </p>
+
+                    <p>
+
+                        <label>
+
+                            <input name="yourchoice" type="radio" />
+
+                            <span>I Don't Know</span>
+
+                        </label>
+
+                    </p>
+
+                </form>
+            </div>
+        </li>
+    </ul>
 </div>
 
 

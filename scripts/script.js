@@ -50,6 +50,12 @@ for (var i = 0; i < collapsibles.length; i++) {
     M.Collapsible.init(collapsibles[i]);
 }
 
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.collapsible');
+    var instances = M.Collapsible.init(elems, { accordion: false });
+});
+
+
 // Paspaudus button rodo div
 function showDiv() {
     document.getElementById('welcomeDiv').style.display = "block";
@@ -66,6 +72,8 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log(elems)
     var instances = M.Carousel.init(elems, options);
 })
+
+
 
 
 

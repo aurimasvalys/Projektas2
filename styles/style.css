@@ -254,6 +254,18 @@
      height: 150px;
      position: relative;
  }
+ #startquizarea {
+     background-color: rgb(192, 238, 238);
+     position: relative;
+     width: 100%;
+    height: 100px;
+ }
+ #startquiz {
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translate(-50%, -50%);
+ }
  /* Zbignev Rakovskij stiliaus kodas: */
  
  .aukstis {

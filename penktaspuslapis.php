@@ -12,18 +12,17 @@
 </nav>
 
 <div id="quizheader">
-<h1  id="quizheadertext" class="center-align w3-animate-bottom"> <b>VCS QUIZ</b> </h1>
+    <h1 id="quizheadertext" class="center-align w3-animate-bottom"> <b>VCS QUIZ</b> </h1>
 
 </div>
-
+<div id="startquizarea">
+    <a href="#!" id="startquiz" class=" w3-animate-right btn blue-grey waves-effect waves-teal scale-transition">Start Quiz</a>
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-<br><br><br><br><br><br>
+
 <div class="container">
 
-    <div class="center">
-        <a href="#!" id="startquiz" class="btn blue-grey waves-effect waves-teal scale-transition">Start Quiz</a>
-    </div>
     <a href="#!" id="question1" class="btn green lighten-2 waves-effect waves-lime accent-2 scale-transition scale-out">Question 1</a>
     <div class="card green lighten-5 scale-transition scale-out" id="cardas1">
         <div class="card-content">
@@ -275,11 +274,11 @@
                 <i class="large material-icons" id="star-icon">star</i> <br>
             </p>
             <div class="center">
-        <a href="http://localhost/projektas2/penktaspuslapis.php" id="tryagain" class="btn yellow waves-effect waves-yellow scale-transition scale-out">Try again ?</a>
-    </div>
+                <a href="http://localhost/projektas2/penktaspuslapis.php" id="tryagain" class="btn yellow waves-effect waves-yellow scale-transition scale-out">Try again ?</a>
+            </div>
         </div>
     </div>
-    
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>

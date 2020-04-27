@@ -16,13 +16,13 @@
             <ul>
                 <li>
                     <form id="q1" action="#">
-                    What is a <b>div</b>?
-                        
+                        What is a <b>div</b>?
+
                         <p>
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio1" />
 
                                 <span>HTML divider</span>
 
@@ -34,7 +34,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio1" />
 
                                 <span>Stack memory usage number</span>
 
@@ -46,7 +46,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio1" />
 
                                 <span>vid Backwards</span>
 
@@ -70,7 +70,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio2" />
 
                                 <span>Jennie</span>
 
@@ -82,7 +82,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio2" />
 
                                 <span>Vanessa</span>
 
@@ -94,7 +94,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio2" />
 
                                 <span>Alice</span>
 
@@ -118,7 +118,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio3" />
 
                                 <span>Life is life</span>
 
@@ -130,7 +130,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio3" />
 
                                 <span>String a = "life";</span>
 
@@ -142,7 +142,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio3" />
 
                                 <span>life in <b>Bold</b> text</span>
 
@@ -161,13 +161,13 @@
             <ul>
                 <li>
                     <form id="q4" action="#">
-                    What's your <b>favourite</b> ? <br><br>
-                        
+                        What's your <b>favourite</b> ? <br><br>
+
                         <p>
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio4" />
 
                                 <span>Dog</span>
 
@@ -179,7 +179,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio4" />
 
                                 <span>Ice Cream</span>
 
@@ -191,7 +191,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio4">
 
                                 <span>Football</span>
 
@@ -204,19 +204,19 @@
             </ul>
         </div>
     </div>
-    <a href="#!" id="question5" class="btn waves-effect waves-teal scale-transition scale-out">Question 5</a>
+    <a href="#!" id="question5" class="btn waves-effect waves-teal scale-transition scale-out">Final Question</a>
     <div class="card cyan lighten-4 scale-transition scale-out" id="cardas5">
         <div class="card-content">
             <ul>
                 <li>
                     <form id="q5" action="#">
-                    <b>Yes</b> ? <br><br>
-                        
+                        <b>Yes</b> ? <br><br>
+
                         <p>
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio5" />
 
                                 <span>Yes</span>
 
@@ -228,7 +228,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio5" />
 
                                 <span>No</span>
 
@@ -240,7 +240,7 @@
 
                             <label>
 
-                                <input name="yourchoice" type="radio" />
+                                <input name="yourchoice" type="radio" class="radio5" />
 
                                 <span>I Don't know</span>
 
@@ -253,6 +253,19 @@
             </ul>
         </div>
     </div>
+    <div class="card cyan lighten-4 scale-transition scale-out" id="cardas6">
+        <div class="card-content">
+            <p class="center">
+                You did it! <br>
+                Here's your Prize! <br>
+                <i class="large material-icons" id="star-icon">star</i> <br>
+            </p>
+            <div class="center">
+        <a href="http://localhost/projektas2/penktaspuslapis.php" id="tryagain" class="btn waves-effect waves-teal scale-transition scale-out">Try again ?</a>
+    </div>
+        </div>
+    </div>
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
@@ -260,34 +273,40 @@
         $('#question1').click(function() {
             $('#question1').addClass('scale-out');
             $('#cardas1').removeClass('scale-out').addClass('scale-in');
+        })
+    </script>
+    <script>
+        $('.radio1').click(function() {
+            $('#question2').addClass('scale-out');
+            $('#cardas2').removeClass('scale-out').addClass('scale-in');
             $('#question2').removeClass('scale-out').addClass('scale-in');
         })
     </script>
     <script>
-        $('#question2').click(function() {
-            $('#question2').addClass('scale-out');
-            $('#cardas2').removeClass('scale-out').addClass('scale-in');
+        $('.radio2').click(function() {
+            $('#question3').addClass('scale-out');
+            $('#cardas3').removeClass('scale-out').addClass('scale-in');
             $('#question3').removeClass('scale-out').addClass('scale-in');
         })
     </script>
     <script>
-        $('#question3').click(function() {
-            $('#question3').addClass('scale-out');
-            $('#cardas3').removeClass('scale-out').addClass('scale-in');
+        $('.radio3').click(function() {
+            $('#question4').addClass('scale-out');
+            $('#cardas4').removeClass('scale-out').addClass('scale-in');
             $('#question4').removeClass('scale-out').addClass('scale-in');
         })
     </script>
     <script>
-        $('#question4').click(function() {
-            $('#question4').addClass('scale-out');
-            $('#cardas4').removeClass('scale-out').addClass('scale-in');
+        $('.radio4').click(function() {
+            $('#question5').addClass('scale-out');
+            $('#cardas5').removeClass('scale-out').addClass('scale-in');
             $('#question5').removeClass('scale-out').addClass('scale-in');
         })
     </script>
     <script>
-        $('#question5').click(function() {
-            $('#question5').addClass('scale-out');
-            $('#cardas5').removeClass('scale-out').addClass('scale-in');
+        $('.radio5').click(function() {
+            $('#cardas6').removeClass('scale-out').addClass('scale-in');
+            $('#tryagain').removeClass('scale-out').addClass('scale-in');
         })
     </script>
     <script>

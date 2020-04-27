@@ -159,48 +159,52 @@
      width: 100%;
      height: 700px;
      position: relative;
-}
+ }
  
  #section3pp1 {
      background-color: rgb(227, 250, 250);
      width: 100%;
      height: 500px;
      position: relative;
-}
-
-#section2container {
-    position: relative;
-    top: 20px;
-}
+ }
+ 
+ #section2container {
+     position: relative;
+     top: 20px;
+ }
+ 
  #section2img1 {
      max-width: 100%;
-}
+ }
+ 
  #section2img2 {
-    max-width: 100%;
-} 
-#section2img3 {
-    max-width: 100%;
-}
-#section2img4 {
-    max-width: 100%;
-}
-#section2img5 {
-    max-width: 100%;
-}
-#section2buttonleft {
-    left: 200px;
-}
-#section2buttonright {
-    right: 200px;
-}
-
-
-
-
-
-
-
+     max-width: 100%;
+ }
+ 
+ #section2img3 {
+     max-width: 100%;
+ }
+ 
+ #section2img4 {
+     max-width: 100%;
+ }
+ 
+ #section2img5 {
+     max-width: 100%;
+ }
+ 
+ #section2buttonleft {
+     left: 200px;
+ }
+ 
+ #section2buttonright {
+     right: 200px;
+ }
  /* Tomas Pacesa stiliaus kodas: */
+ 
+ #star-icon {
+     color: gold;
+ }
  
  .card {
      margin-top: 0!important;

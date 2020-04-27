@@ -12,14 +12,15 @@
 </nav>
 
 <div id="quizheader">
-    <h1 id="quizheadertext" class="center-align w3-animate-bottom"> <b>VCS QUIZ</b> </h1>
+    
+   <h1 id="quizheadertext"><b>VCS QUIZ</b></h1>
 
 </div>
 <div id="startquizarea">
     <a href="#!" id="startquiz" class=" w3-animate-right btn blue-grey waves-effect waves-teal scale-transition">Start Quiz</a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+
 
 <div class="container">
 

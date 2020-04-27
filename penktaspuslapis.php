@@ -8,10 +8,10 @@
 <div class="container">
 
     <div class="center">
-        <a href="#!" id="startquiz" class="btn waves-effect waves-teal scale-transition">Start Quiz</a>
+        <a href="#!" id="startquiz" class="btn blue-grey waves-effect waves-teal scale-transition">Start Quiz</a>
     </div>
-    <a href="#!" id="question1" class="btn waves-effect waves-teal scale-transition scale-out">Question 1</a>
-    <div class="card cyan lighten-4 scale-transition scale-out" id="cardas1">
+    <a href="#!" id="question1" class="btn green lighten-2 waves-effect waves-lime accent-2 scale-transition scale-out">Question 1</a>
+    <div class="card green lighten-5 scale-transition scale-out" id="cardas1">
         <div class="card-content">
             <ul>
                 <li>
@@ -107,8 +107,8 @@
             </ul>
         </div>
     </div>
-    <a href="#!" id="question3" class="btn waves-effect waves-teal scale-transition scale-out">Question 3</a>
-    <div class="card cyan lighten-4 scale-transition scale-out" id="cardas3">
+    <a href="#!" id="question3" class="btn orange lighten-2 waves-effect waves-orange scale-transition scale-out">Question 3</a>
+    <div class="card orange lighten-4 scale-transition scale-out" id="cardas3">
         <div class="card-content">
             <ul>
                 <li>
@@ -155,8 +155,8 @@
             </ul>
         </div>
     </div>
-    <a href="#!" id="question4" class="btn waves-effect waves-teal scale-transition scale-out">Question 4</a>
-    <div class="card cyan lighten-4 scale-transition scale-out" id="cardas4">
+    <a href="#!" id="question4" class="btn deep-orange lighten-2 waves-effect waves-deep-orange lighten-2 scale-transition scale-out">Question 4</a>
+    <div class="card deep-orange lighten-4 scale-transition scale-out" id="cardas4">
         <div class="card-content">
             <ul>
                 <li>
@@ -204,8 +204,8 @@
             </ul>
         </div>
     </div>
-    <a href="#!" id="question5" class="btn waves-effect waves-teal scale-transition scale-out">Final Question</a>
-    <div class="card cyan lighten-4 scale-transition scale-out" id="cardas5">
+    <a href="#!" id="question5" class="btn red darken-4 waves-effect waves-red scale-transition scale-out">Final Question</a>
+    <div class="card red scale-transition scale-out" id="cardas5">
         <div class="card-content">
             <ul>
                 <li>
@@ -253,7 +253,7 @@
             </ul>
         </div>
     </div>
-    <div class="card cyan lighten-4 scale-transition scale-out" id="cardas6">
+    <div class="card purple lighten-5 scale-transition scale-out" id="cardas6">
         <div class="card-content">
             <p class="center">
                 You did it! <br>
@@ -261,7 +261,7 @@
                 <i class="large material-icons" id="star-icon">star</i> <br>
             </p>
             <div class="center">
-        <a href="http://localhost/projektas2/penktaspuslapis.php" id="tryagain" class="btn waves-effect waves-teal scale-transition scale-out">Try again ?</a>
+        <a href="http://localhost/projektas2/penktaspuslapis.php" id="tryagain" class="btn yellow waves-effect waves-yellow scale-transition scale-out">Try again ?</a>
     </div>
         </div>
     </div>

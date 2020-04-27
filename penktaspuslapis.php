@@ -11,8 +11,11 @@
     </div>
 </nav>
 
+<div id="quizheader">
+<h1  id="quizheadertext" class="center-align w3-animate-bottom"> <b>VCS QUIZ</b> </h1>
 
-<h1 class="ml3 center">VCS Quiz</h1>
+</div>
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <br><br><br><br><br><br>

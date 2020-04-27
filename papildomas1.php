@@ -67,11 +67,35 @@
 
     <div id="section2container" class="container">
         <div class="row">
-            <img id="section2img1" class="mySlides" src="images\bridges\shivaji_park_bridge_mumbai-1920x1080.jpg" alt="">
-            <img id="section2img2" class="mySlides" src="images\bridges\vasco_da_gama_bridge_sunset_portugal_4k_5k-1920x1080.jpg" alt="">
-            <img id="section2img3" class="mySlides" src="images\bridges\yokohama_bay_bridge_japan-1920x1080.jpg" alt="">
-            <img id="section2img4" class="mySlides" src="images\bridges\forth_bridge_scotland_4k_8k-1920x1080.jpg" alt="">
-            <img id="section2img5" class="mySlides" src="images\bridges\golden_gate_bridge_at_night_4k_8k-1920x1080.jpg" alt="">
+            <div class="mySlides">
+                <img class="w3-animate-left" id="section2img1"  src="images\bridges\shivaji_park_bridge_mumbai-1920x1080.jpg" alt="">
+                <h3 id="section2slide1text" class="w3-animate-bottom white-text">  <i>Shivaji Park Bridge, Mumbai, India</i> </h3>
+            </div>
+
+            <div class="mySlides">
+                <img class="w3-animate-left" id="section2img2" src="images\bridges\vasco_da_gama_bridge_sunset_portugal_4k_5k-1920x1080.jpg" alt="">
+                <h3 id="section2slide2text" class="w3-animate-bottom white-text" ><i>Vasco da Gama Bridge, Lisbon, Portugal</i></h3>
+            </div>
+
+            <div class="mySlides">
+                <img class="w3-animate-left" id="section2img3" src="images\bridges\yokohama_bay_bridge_japan-1920x1080.jpg" alt="">
+                <h3 id="section2slide3text" class="w3-animate-bottom white-text"><i>Yokohama Bay Bridge, Tokyo, Japan</i></h3>
+            </div>
+
+            <div class="mySlides">
+                <img class="w3-animate-left" id="section2img4" src="images\bridges\forth_bridge_scotland_4k_8k-1920x1080.jpg" alt="">
+                <h3 id="section2slide4text" class="w3-animate-bottom white-text"><i>Forth Bridge, Inchgarvie, Scotland</i></h3>
+            </div>
+
+            <div class="mySlides">
+               <img class="w3-animate-left" id="section2img5" src="images\bridges\golden_gate_bridge_at_night_4k_8k-1920x1080.jpg" alt=""> 
+               <h3 id="section2slide5text" class="w3-animate-bottom white-text"><i>Golden Gate Bridge, San Francisco Bay, California, US</i></h3>
+            </div>
+            
+            
+            
+            
+            
         </div>
     </div>
 

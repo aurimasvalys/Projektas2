@@ -22,7 +22,7 @@
         <nav class="teal lighten-4">
             <div class="container nav-wrapper">
                 <div class="w3-animate-left">
-                    <a href="#" class="brand-logo"><img src="dizainai\sierra\img\logo.png" alt="virsuslogo"></a>
+                    <a href="index.php" class="brand-logo"><img src="dizainai\sierra\img\logo.png" alt="virsuslogo"></a>
                 </div>
 
                 <div class="w3-animate-right">
@@ -33,7 +33,7 @@
                         <li><a class='dropdown-trigger black-text' href='#' data-target='dropdown1'>More</a></li>
                         <ul id='dropdown1' class='dropdown-content'>
                             <li><a href="papildomas1.php">More 1</a></li>
-                            <li><a href="papildomas2.php">More 2</a></li>
+                            <li><a href="penktaspuslapis.php">More 2</a></li>
 
                         </ul>
                     </ul>

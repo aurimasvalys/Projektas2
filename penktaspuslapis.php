@@ -1,4 +1,15 @@
 <?php include "header.php" ?>
+<nav class="teal lighten-4">
+    <div class="container nav-wrapper">
+        <div class="col s12 ">
+            <div class="w3-animate-left">
+                <a href="index.php" class="breadcrumb black-text">Index</a>
+                <a href="papildomas1.php" class="breadcrumb black-text">More 1</a>
+            </div>
+
+        </div>
+    </div>
+</nav>
 
 
 <h1 class="ml3 center">VCS Quiz</h1>

@@ -1,21 +1,14 @@
 <?php include "header.php" ?>
 
-<nav class="teal lighten-4">
-    <div class="container nav-wrapper">
-        <div class="col s12 ">
-            <div class="w3-animate-left">
-                <a href="index.php" class="breadcrumb black-text">Index</a>
-                <a href="papildomas1.php" class="breadcrumb black-text">More 2</a>
-            </div>
 
-        </div>
-    </div>
-</nav>
+<h1 class="ml3 center">VCS Quiz</h1>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+<br><br><br><br><br><br>
+<div class="container">
 
-<div id="quizheader">
-    <div class="row center-aligned">
-        <h1 id="vcsquiz" class="w3-animate-bottom"><b>VCS QUIZ</b></h1>
+    <div class="center">
+        <a href="#!" id="startquiz" class="btn waves-effect waves-teal scale-transition">Start Quiz</a>
     </div>
     <a href="#!" id="question1" class="btn waves-effect waves-teal scale-transition scale-out">Question 1</a>
     <div class="card cyan lighten-4 scale-transition scale-out" id="cardas1">
@@ -27,150 +20,139 @@
 
                         <p>
 
-        <a href="#!" id="question1" class="btn waves-effect waves-teal scale-transition scale-out">Question 1</a>
-        <div class="card cyan lighten-4 scale-transition scale-out" id="cardas1">
-            <div class="card-content">
-                <ul>
-                    <li>
-                        <form id="q1" action="#">
-                            What is a <b>div</b>?
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio1" />
 
-                                <label>
+                                <span>HTML divider</span>
 
-                                    <input name="yourchoice" type="radio" />
+                            </label>
 
-                                    <span>HTML divider</span>
+                        </p>
 
-                                </label>
+                        <p>
 
-                            </p>
-
-                                <input name="yourchoice" type="radio" class="radio1" />
-
-                                <label>
-
-                                    <input name="yourchoice" type="radio" />
-
-                                    <span>Stack memory usage number</span>
-
-                                </label>
-
-                            </p>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio1" />
 
-                                <label>
+                                <span>Stack memory usage number</span>
 
-                                    <input name="yourchoice" type="radio" />
+                            </label>
 
-                                    <span>vid Backwards</span>
+                        </p>
 
-                                </label>
+                        <p>
 
-                            </p>
+                            <label>
 
-                        </form>
-                    </li>
-                </ul>
-            </div>
+                                <input name="yourchoice" type="radio" class="radio1" />
+
+                                <span>vid Backwards</span>
+
+                            </label>
+
+                        </p>
+
+                    </form>
+                </li>
+            </ul>
         </div>
-        <a href="#!" id="question2" class="btn waves-effect waves-teal scale-transition scale-out">Question 2</a>
-        <div class="card cyan lighten-4 scale-transition scale-out" id="cardas2">
-            <div class="card-content">
-                <ul>
-                    <li>
-                        <form id="q2" action="#">
-                            What is the name of <b>Alice</b> ? <br><br>
-                            <p>
+    </div>
+    <a href="#!" id="question2" class="btn waves-effect waves-teal scale-transition scale-out">Question 2</a>
+    <div class="card cyan lighten-4 scale-transition scale-out" id="cardas2">
+        <div class="card-content">
+            <ul>
+                <li>
+                    <form id="q2" action="#">
+                        What is the name of <b>Alice</b> ? <br><br>
+                        <p>
 
-                                <label>
-
-                                <input name="yourchoice" type="radio" class="radio2" />
-
-                                    <span>Jennie</span>
-
-                                </label>
-
-                            </p>
-
-                            <p>
-
-                                <label>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio2" />
 
-                                    <span>Vanessa</span>
+                                <span>Jennie</span>
 
-                                </label>
+                            </label>
 
-                            </p>
+                        </p>
 
-                            <p>
+                        <p>
 
-                                <label>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio2" />
 
-                                    <span>Alice</span>
+                                <span>Vanessa</span>
 
-                                </label>
+                            </label>
 
-                            </p>
+                        </p>
 
-                        </form>
-                    </li>
-                </ul>
-            </div>
+                        <p>
+
+                            <label>
+
+                                <input name="yourchoice" type="radio" class="radio2" />
+
+                                <span>Alice</span>
+
+                            </label>
+
+                        </p>
+
+                    </form>
+                </li>
+            </ul>
         </div>
-        <a href="#!" id="question3" class="btn waves-effect waves-teal scale-transition scale-out">Question 3</a>
-        <div class="card cyan lighten-4 scale-transition scale-out" id="cardas3">
-            <div class="card-content">
-                <ul>
-                    <li>
-                        <form id="q3" action="#">
-                            What is <b>life</b> ? <br><br>
-                            <p>
+    </div>
+    <a href="#!" id="question3" class="btn waves-effect waves-teal scale-transition scale-out">Question 3</a>
+    <div class="card cyan lighten-4 scale-transition scale-out" id="cardas3">
+        <div class="card-content">
+            <ul>
+                <li>
+                    <form id="q3" action="#">
+                        What is <b>life</b> ? <br><br>
+                        <p>
 
-                                <label>
-
-                                <input name="yourchoice" type="radio" class="radio3" />
-
-                                    <span>Life is life</span>
-
-                                </label>
-
-                            </p>
-
-                            <p>
-
-                                <label>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio3" />
 
-                                    <span>String a = "life";</span>
+                                <span>Life is life</span>
 
-                                </label>
+                            </label>
 
-                            </p>
+                        </p>
 
-                            <p>
+                        <p>
 
-                                <label>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio3" />
 
-                                    <span>life in <b>Bold</b> text</span>
+                                <span>String a = "life";</span>
 
-                                </label>
+                            </label>
 
-                            </p>
+                        </p>
 
-                        </form>
-                    </li>
-                </ul>
-            </div>
+                        <p>
+
+                            <label>
+
+                                <input name="yourchoice" type="radio" class="radio3" />
+
+                                <span>life in <b>Bold</b> text</span>
+
+                            </label>
+
+                        </p>
+
+                    </form>
+                </li>
+            </ul>
         </div>
     </div>
     <a href="#!" id="question4" class="btn waves-effect waves-teal scale-transition scale-out">Question 4</a>
@@ -183,44 +165,43 @@
 
                         <p>
 
-                                <label>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio4" />
 
-                                    <span>Dog</span>
+                                <span>Dog</span>
 
-                                </label>
+                            </label>
 
-                            </p>
+                        </p>
 
-                            <p>
+                        <p>
 
-                                <label>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio4" />
 
-                                    <span>Ice Cream</span>
+                                <span>Ice Cream</span>
 
-                                </label>
+                            </label>
 
-                            </p>
+                        </p>
 
-                            <p>
+                        <p>
 
-                                <label>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio4">
 
-                                    <span>Football</span>
+                                <span>Football</span>
 
-                                </label>
+                            </label>
 
-                            </p>
+                        </p>
 
-                        </form>
-                    </li>
-                </ul>
-            </div>
+                    </form>
+                </li>
+            </ul>
         </div>
     </div>
     <a href="#!" id="question5" class="btn waves-effect waves-teal scale-transition scale-out">Final Question</a>
@@ -233,44 +214,43 @@
 
                         <p>
 
-                                <label>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio5" />
 
-                                    <span>Yes</span>
+                                <span>Yes</span>
 
-                                </label>
+                            </label>
 
-                            </p>
+                        </p>
 
-                            <p>
+                        <p>
 
-                                <label>
-
-                                <input name="yourchoice" type="radio" class="radio5" />
-
-                                    <span>No</span>
-
-                                </label>
-
-                            </p>
-
-                            <p>
-
-                                <label>
+                            <label>
 
                                 <input name="yourchoice" type="radio" class="radio5" />
 
-                                    <span>I Don't know</span>
+                                <span>No</span>
 
-                                </label>
+                            </label>
 
-                            </p>
+                        </p>
 
-                        </form>
-                    </li>
-                </ul>
-            </div>
+                        <p>
+
+                            <label>
+
+                                <input name="yourchoice" type="radio" class="radio5" />
+
+                                <span>I Don't know</span>
+
+                            </label>
+
+                        </p>
+
+                    </form>
+                </li>
+            </ul>
         </div>
     </div>
     <div class="card cyan lighten-4 scale-transition scale-out" id="cardas6">
@@ -336,9 +316,7 @@
         })
     </script>
 
-    </div>
 </div>
-
 
 
 <?php include "footer.php" ?>

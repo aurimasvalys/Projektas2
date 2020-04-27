@@ -15,7 +15,7 @@
 </nav>
 
 
-<h2 id="fet">News</h2>
+<h2 id="fet" class="w3-animate-right">News</h2>
 
 <div id="naujienu fonas">
   <div class="konteineris">
@@ -23,7 +23,7 @@
 
 
 
-    <div class="tema1">
+    <div class="tema1 w3-animate-left">
       <img class="nuotraukos" src="dizainai/seogo/img/blog/learn_about_bg.png " alt="">
 
       <div class=dalis1>
@@ -46,7 +46,7 @@
     </div>
 
 
-    <div class="tema1">
+    <div class="tema1 w3-animate-right">
       <img class="nuotraukos" src="dizainai/personal/img/blog/feature-img5.jpg" alt="">
 
       <div class=dalis1>
@@ -69,7 +69,7 @@
 
 
 
-    <div class="tema1">
+    <div class="tema1 w3-animate-left">
       <img class="nuotraukos" src="dizainai/personal/img/blog/feature-img1.jpg" alt="">
 
       <div class=dalis1>

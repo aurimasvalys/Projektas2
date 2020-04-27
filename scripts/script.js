@@ -6,23 +6,23 @@
 
 /* Aurimas Valys script kodas: */
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.dropdown-trigger');
     var instances = M.Dropdown.init(elems);
 });
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.modal');
     var instances = M.Modal.init(elems);
 });
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.materialboxed');
     var instances = M.Materialbox.init(elems);
 });
 
 // button tooltip:
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.tooltipped');
     var instances = M.Tooltip.init(elems);
 });
@@ -67,9 +67,9 @@ for (var i = 0; i < tabs.length; i++) {
 // Tabs swipe scriptas 
 
 M.Tabs.init(document.querySelectorAll('.tabs'), { swipeable: true });
-var textWrapper = document.querySelector('#quizheader');
+var textWrapper = document.querySelector('#quizheadertext');
 if (textWrapper) {
-textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+    textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 }
 
 
@@ -77,13 +77,13 @@ textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='let
 
 anime.timeline({ loop: true })
     .add({
-        targets: '.ml3 .letter',
+        targets: '#quizheadertext .letter',
         opacity: [0, 1],
         easing: "easeInOutQuad",
         duration: 2250,
         delay: (el, i) => 150 * (i + 1)
     }).add({
-        targets: '.ml3',
+        targets: '#quizheadertext',
         opacity: 0,
         duration: 1000,
         easing: "easeOutExpo",
@@ -105,7 +105,7 @@ for (var i = 0; i < collapsibles.length; i++) {
     M.Collapsible.init(collapsibles[i]);
 }
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.collapsible');
     var instances = M.Collapsible.init(elems, { accordion: false });
 });
@@ -116,7 +116,7 @@ function showDiv() {
     document.getElementById('welcomeDiv').style.display = "block";
 }
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function() {
     // M.AutoInit();
 
     var options = {

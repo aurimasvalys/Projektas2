@@ -22,7 +22,7 @@
         <nav class="teal lighten-4">
             <div class="container nav-wrapper">
                 <div class="w3-animate-left">
-                    <a href="#" class="brand-logo"><img src="dizainai\sierra\img\logo.png" alt="virsuslogo"></a>
+                    <a href="index.php" class="brand-logo"><img src="dizainai\sierra\img\logo.png" alt="virsuslogo"></a>
                 </div>
 
                 <div class="w3-animate-right">

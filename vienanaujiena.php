@@ -17,7 +17,7 @@
 
 
 <div class="fonas row container w3-animate-top">
-  <img class=" aukstis col s12" src="\images\header.jpg" alt="">
+  <img class=" aukstis col s12" src="images\bp5.jpg" alt="" height="400px">
   <div>Lorem ip"sum dolor sit amet, consectetur adipisicing elit. Ut eaque sit laborum harum nesciunt voluptate aspernatur! Odio, atque ratione quas magni, adipisci sint maiores officia vel ipsum, deleniti earum quod!
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut eaque sit laborum harum nesciunt voluptate aspernatur! Odio, atque ratione quas magni, adipisci sint maiores officia vel ipsum, deleniti earum quod!
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut eaque sit laborum harum nesciunt voluptate aspernatur! Odio, atque ratione quas magni, adipisci sint maiores officia vel ipsum, deleniti earum quod!

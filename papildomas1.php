@@ -69,7 +69,7 @@
         <div class="row">
             <div class="mySlides">
                 <img class="w3-animate-left" id="section2img1"  src="images\bridges\shivaji_park_bridge_mumbai-1920x1080.jpg" alt="">
-                <h3 id="section2slide1text" class="w3-animate-top white-text">  <i>Shivaji Park Bridge, Mumbai, India</i> </h3>
+                <h3 id="section2slide1text" class="w3-animate-bottom white-text">  <i>Shivaji Park Bridge, Mumbai, India</i> </h3>
             </div>
 
             <div class="mySlides">
